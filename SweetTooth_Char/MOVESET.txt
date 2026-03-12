@@ -1,0 +1,103 @@
+                                   _____________
+ _________________________________/ Sweet Tooth \____________________________________
+|____________________________________________________________________________________|
+|____________________ by Varia31 (variathehunter@yahoo.com) _________________________|
+                     \_____________________________________/
+
+6-Button Character
+
+Legend
+(LP = Light Punch) (MP = Medium Punch) (HP = Heavy Punch)
+(LK = Light Kick) (MP = Medium Kick) (HK= Heavy Kick)
+
+Example for key setups
+(LP = x) (MP = y) (HP = z)
+(LK = a) (MK = b) (HK = c)
+
+[Basic standing moves]
+Punches
+-LP = Quick Jab (press again after the first punch hits for a second follow-up hit)
+-MP = Shove (press when up close to the enemy for a powerful Rib Crusher)
+-HP = Machete Massacre (press again after the first slice makes contact to execute a second hit)
+
+Kicks
+-LK = Clown Kick
+-MK = Disgraceful Kick
+-HK = Chainsaw Flurry (when the move finishes, Needles will discard the chainsaw; is a projectile)
+
+[Basic crouching moves]
+Punches
+-LP = Crouching Chop
+-MP = Uppercut (this move sets up good lead-ins for aerial combos)
+-HP = Leg Slash (no combo-ability. Useful against small characters)
+
+Kicks
+-LK = Crouching Clown Kick (can hit downed enemies)
+-MK = Ankle Breaker/Ground Stomp (slow start-up, but powerful. Can down, and hurt downed enemies)
+-HK = Trip/Explosive Present ("Trip" is only active when you have less than 500 super meter)
+
+[Basic Aerial Attacks]
+Punches
+-LP = Aerial Quick Punch
+-MP = Aerial Overhand Slam
+-HP = Aerial Machete Swipe
+
+Kicks
+-LK = Aerial Clown Kick
+-MK = Chainsaw Copter (carries player upwards slightly. Excellent for aerial combos)
+-HK = Aerial Stomp
+
+[Special Moves - Ground]
+
+-Down, Back, MP = Initiate Clown's Edge Combo (press "MP" again after hitting, then finish with "HP")
+-Down, Forward, MP = Shotgun Blast!
+-Down, Forward, HP = Go for a spin!
+-Down, Back, HP = Criss Cross Combo 
+-Back, Forward, HP = "Don't play with sharp objects!" (aka Machete Throw)
+-Down, Forward, MK = Hellfire Breath
+-Down, Back, MK = "Who wants a treat?"
+-Down, Back, LP = Fire Missile!
+-Down, Back, LK = Freeze Missile!
+-Down, Forward, LK = SMG Spray'n'Pray
+-LP while running = Dashing Grab
+-HK while running = Dashing Clown Kick
+-LP+LK = Shield Dash (can cancel into Dashing Clown Kick by pressing "HK")
+-LP+MP while guarding at long range = "Cut it out!" Ranged counter attack
+-LK+MK while guarding at close range = "This is my curse!" Counter attack grab 
+-HK while crouch guarding = Quick trip counter
+
+[Special Moves - Air]
+
+-Back, Forward, HP = Air knife
+-Down (hold), HK = Aerial Slam Down
+
+[Hypers]
+
+Level 1
+-Down, Down Forward, Foward, LP+MP = TNT Tag
+-Down, Down Forward, Forward, LP+LK = "Satisfy your Sweet Tooth!" (note: is only usable at 500 health or below)
+-Down, Down Forward, Forward, LK+MK = Mega Gun Barrage
+
+Level 2
+-Down, Down Back, Back, LP+MP = Taste the Tooth! (note: is disabled during team play)
+-Down, Down Back, Back, MP+HP = "Fear the Reaper!" (note: is disabled during team play)
+
+Level 3
+-Down, Down Forward, Forward, MP+HP = "A butcher like me..." (note: is disabled during team play)
+-Down, Down Back, Back, LP+LK = "Welcome to Twisted Metal" (note: can only be used up-close; diabled for team play)
+
+[Taunts]
+-Start (or "Enter" key) = Taunt
+-Down+Start = Dancing Taunt
+
+
+--------------
+[Special Attribute]
+Choosing Sweet Tooth's 5th and 6th palette will activate Dark Tooth and Gold Tooth mode, respectively. Dark Tooth
+offers a significant attack power boost while Gold Tooth gives Sweet Tooth a defense buff.
+
+
+Notice: "Chainsaw Flurry", "Aerial Overhand Slam", "Aerial Stomp", "Shove", the second hit of 
+"Machete Massacre", "Aerial Machete Swipe", "Ankle Breaker", and "Disgraceful Kick" are all 
+intended to be combo finsishers. As such, they cannot use follow-up moves after making contact.
+Most everything else can work for combos though, so try to experiment and see what you can do!
