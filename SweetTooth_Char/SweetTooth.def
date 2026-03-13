@@ -1,0 +1,33 @@
+
+;            _____________
+; __________/ Sweet Tooth \________________
+;|_________________________________________|
+;|_ By Varia31 (variathehunter@yahoo.com) _|
+;  \_____________________________________/
+;=======Created in Fighter Factory 3========
+
+[Info]
+name ="Sweet Tooth"
+displayname ="Needles Kane"
+versiondate =2/8/2016
+mugenversion =1.0
+author ="Varia31"
+pal.defaults =1,2,5,6,5,6
+
+[Files]
+sprite =assets/SweetTooth.sff
+anim =assets/SweetTooth.air
+sound =assets/Sweet Sounds.snd
+cmd =logic/SweetTooth.cmd
+cns =logic/SweetTooth.cns
+stcommon =logic/common1.cns
+st=logic/SweetTooth.cns
+pal1=palette/SweetPalette.act
+pal2=palette/DarkPalette.act
+pal3=palette/GoldPalette.act
+st1=logic/SweetHypers.cns
+st2=logic/SweetAIStates.cns
+
+[Arcade]
+intro.storyboard = 
+ending.storyboard = 
