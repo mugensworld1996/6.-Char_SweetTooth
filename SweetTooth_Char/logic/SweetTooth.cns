@@ -12123,7 +12123,7 @@ trigger1 = numexplod(1000) = 0
 ID = 1000
 anim = 1000
 postype = p1
-pos = -5,-110
+pos = -4,-108
 bindtime = -1
 removetime = -2
 sprpriority = 4
