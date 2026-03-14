@@ -1534,8 +1534,8 @@ ignorehitpause = 1
 ownpal = 1
 persistent = 0
 pos = 800, 3
-size.xscale = 0.5
-size.yscale = 0.5
+size.xscale = 0.4
+size.yscale = 0.4
 
 [State 19002, PlaySnd]
 type = PlaySnd
@@ -1729,7 +1729,7 @@ type = Helper
 trigger1 = time = 0
 StateNo = 190032
 HelperType = normal
-pos = 22,-94
+pos = 19,-78
 postype = p1
 id = 190032
 ignorehitpause = 1
@@ -10039,8 +10039,8 @@ id = 9000
 ignorehitpause = 1
 sprpriority = 2
 ownpal = 0
-size.xscale = 0.6
-size.yscale = 0.6
+size.xscale = 0.5
+size.yscale = 0.5
 
 [State 9000, PowerAdd]
 type = PowerAdd
@@ -12135,6 +12135,69 @@ ignorehitpause = 1
 type = RemoveExplod
 trigger1 = anim != 3
 ID = 1000
+ignorehitpause = 1
+
+[State -2, Fuego Anim 0]
+type = Explod
+triggerall = anim = 0
+trigger1 = numexplod(1001) = 0
+ID = 1001
+anim = 1000
+postype = p1
+pos = -10,-114 ; aquí cambias la posición
+bindtime = -1
+removetime = -2
+sprpriority = 4
+scale = 0.115,0.115
+ownpal = 1
+ignorehitpause = 1
+
+[State -2, Quitar Fuego Anim 0]
+type = RemoveExplod
+trigger1 = anim != 0
+ID = 1001
+ignorehitpause = 1
+
+[State -2, Fuego Anim 11]
+type = Explod
+triggerall = anim = 11
+trigger1 = numexplod(1002) = 0
+ID = 1002
+anim = 1000
+postype = p1
+pos = 3,-94
+bindtime = -1
+removetime = -2
+sprpriority = 4
+scale = 0.115,0.115
+ownpal = 1
+ignorehitpause = 1
+
+[State -2, Quitar Fuego Anim 11]
+type = RemoveExplod
+trigger1 = anim != 11
+ID = 1002
+ignorehitpause = 1
+
+[State -2, Fuego Anim 20]
+type = Explod
+triggerall = anim = 20
+trigger1 = numexplod(1003) = 0
+ID = 1003
+anim = 1000
+postype = p1
+pos = -1,-110
+bindtime = -1
+removetime = -2
+sprpriority = 4
+scale = 0.115,0.115
+ownpal = 1
+ignorehitpause = 1
+
+[State -2, Quitar Fuego Anim 20]
+type = RemoveExplod
+trigger1 = anim != 20
+ID = 1003
 ignorehitpause = 1
 
 [State -2, AssertSpecial]
