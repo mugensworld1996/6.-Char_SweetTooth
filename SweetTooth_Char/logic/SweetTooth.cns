@@ -300,8 +300,8 @@ id = 8
 ignorehitpause = 1
 sprpriority = 2
 ownpal = 0
-size.xscale = 0.4
-size.yscale = 0.4
+size.xscale = 0.11
+size.yscale = 0.11
 
 [State 9000, Head flame Dark]
 type = Helper
@@ -353,7 +353,7 @@ type = S
 movetype = I
 Physics = N
 velset = 0,0
-anim = 63
+anim = 1100
 sprpriority = 5
 
 [State 8, BindtoRoot]
@@ -361,7 +361,7 @@ type = BindToRoot
 triggerall = PalNo = [1,4]
 trigger1 = time >= 0
 time = -1
-pos = 4,-119
+pos = -11,-113
 
 [State 8, BindtoRoot]
 type = BindToRoot
@@ -390,7 +390,7 @@ movetype = I
 Physics = N
 velset = 0,0
 ctrl = 1
-anim = 64
+anim = 1110
 sprpriority = 5
 
 [State 9, BindtoRoot]
