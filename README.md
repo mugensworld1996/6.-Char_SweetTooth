@@ -20,18 +20,25 @@ Este proyecto corresponde a una **versión modificada del personaje Sweet Tooth 
 
 El personaje original ya es **100% jugable**, incluyendo animaciones, movimientos y mecánicas de combate completas.
 
-Las modificaciones realizadas en este proyecto están enfocadas principalmente en **cambios estéticos**, manteniendo intacta la base jugable del personaje.
+Las modificaciones realizadas en este proyecto están enfocadas principalmente en **mejoras visuales y efectos estéticos**, manteniendo intacta la base jugable del personaje.
 
 ---
 
-## Cambios realizados
+## Modificaciones realizadas
 
 Las modificaciones incluyen principalmente mejoras visuales, tales como:
 
-- Llamas en la cabeza del personaje
-- Ajustes estéticos adicionales
+- Creación de **sprites nuevos para las llamas en la cabeza**
+- Integración de **efectos de fuego en la cabeza del personaje**
+- Modificación de **animaciones existentes**
+- Ajustes y ampliación de sprites
 
-El objetivo es mejorar la apariencia del personaje manteniendo el trabajo original.
+Las llamas fueron añadidas a las siguientes animaciones:
+
+- Stand
+- Agachado
+- Movimiento hacia adelante
+- Intro del personaje
 
 ---
 
@@ -42,7 +49,7 @@ El objetivo es mejorar la apariencia del personaje manteniendo el trabajo origin
 - Varia31  
 - Fecha original: 02/08/2016
 
-**Modificaciones**
+**Modificaciones estéticas**
 
 - Mugen's World
 
@@ -50,9 +57,20 @@ El objetivo es mejorar la apariencia del personaje manteniendo el trabajo origin
 
 ## Estado del proyecto
 
-✔ Personaje completamente jugable (versión original)
+✔ Personaje completamente jugable (versión original)  
+🔧 Modificaciones visuales en progreso  
 
-Las modificaciones actuales se centran únicamente en **mejoras visuales y ajustes estéticos**.
+Actualmente el proyecto se centra en **mejoras estéticas** del personaje.
+
+Es posible que en el futuro se añadan **efectos de fuego en más animaciones**.
+
+---
+
+## Video
+
+Demostración del personaje en MUGEN:
+
+[![Ver video](https://img.youtube.com/vi/L5yXNwISJOg/0.jpg)](https://www.youtube.com/watch?v=L5yXNwISJOg)
 
 ---
 
@@ -77,13 +95,3 @@ Se permite:
 - Crear versiones derivadas
 
 Siempre respetando el crédito del autor original.
-
----
-
-## Futuro del proyecto
-
-Posibles mejoras futuras:
-
-- Más efectos visuales
-- Ajustes estéticos adicionales
-- Mejoras visuales en animaciones
